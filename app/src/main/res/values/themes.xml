@@ -17,4 +17,7 @@
     <style name="Theme.FoodMarket.noAppBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
 
     </style>
+
+    <style name="TextView"/>
+    <style name="TextView.sadaw"/>
 </resources>
